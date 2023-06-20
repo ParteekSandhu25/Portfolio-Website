@@ -628,7 +628,7 @@ a{
     font-style: bold;
     color: rgb(231, 231, 231);
     bottom: -34.5%;
-    right: -25%;   /* actual value : -25% */
+    right: -5%;   /* actual value : -25% */
     user-select: none; 
     overflow-y: hidden;
 }
